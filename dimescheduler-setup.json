@@ -13,7 +13,6 @@
             "hash": "0fa7fead8e6a680fbab8453d5715ff32170e393b2cb7a58a4ad8b6517da13768"
         }
     },
-    "bin": [["dimescheduler-setuppackagebuilder.exe", "dimescheduler-setuppackagebuilder"]],
     "shortcuts": [
         [
             "dimescheduler-setuppackagebuilder.exe",
