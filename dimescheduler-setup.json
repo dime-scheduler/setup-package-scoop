@@ -14,7 +14,7 @@
         }
     },
     "extract_dir": "PFiles\\Dime.Scheduler Setup Package Builder",
-    "bin": "dimescheduler-setuppackagebuilder.exe",
+    "bin": [["dimescheduler-setuppackagebuilder.exe", "dimescheduler-setuppackagebuilder"]],
     "shortcuts": [
         [
             "dimescheduler-setuppackagebuilder.exe",
