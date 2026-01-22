@@ -10,7 +10,7 @@
     "architecture": {
         "64bit": {
             "url": "https://stdimescheduler.blob.core.windows.net/setup/v0.7.4/Dime.Scheduler%20Setup%20Package%20Builder_x64_en-US.msi#/setup.msi",
-            "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+            "hash": "21182a78c5b65df6bf21e68536c8a2f8df51d94d2debda93171f127f272cc340"
         }
     },
     "extract_dir": "Dime.Scheduler Setup Package Builder",
