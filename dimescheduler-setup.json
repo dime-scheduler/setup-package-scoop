@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-    "version": "0.7.4",
+    "version": "0.8.0",
     "description": "Desktop application for building Dime Scheduler setup packages",
     "homepage": "https://www.dimescheduler.com",
     "license": {
@@ -9,11 +9,10 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://stdimescheduler.blob.core.windows.net/setup/v0.7.4/Dime.Scheduler%20Setup%20Package%20Builder_x64_en-US.msi#/setup.msi",
-            "hash": "21182a78c5b65df6bf21e68536c8a2f8df51d94d2debda93171f127f272cc340"
+            "url": "https://stdimescheduler.blob.core.windows.net/setup/v0.8.0/dimescheduler-setuppackagebuilder.exe",
+            "hash": "0fa7fead8e6a680fbab8453d5715ff32170e393b2cb7a58a4ad8b6517da13768"
         }
     },
-    "extract_dir": "PFiles\\Dime.Scheduler Setup Package Builder",
     "bin": [["dimescheduler-setuppackagebuilder.exe", "dimescheduler-setuppackagebuilder"]],
     "shortcuts": [
         [
@@ -27,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://stdimescheduler.blob.core.windows.net/setup/v$version/Dime.Scheduler%20Setup%20Package%20Builder_x64_en-US.msi#/setup.msi"
+                "url": "https://stdimescheduler.blob.core.windows.net/setup/v$version/dimescheduler-setuppackagebuilder.exe"
             }
         }
     }
