@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://stdimescheduler.blob.core.windows.net/setup/v0.13.0/dimescheduler-setuppackagebuilder.exe",
+            "url": "https://stdimescheduler.blob.core.windows.net/setup/v0.10.3/dimescheduler-setuppackagebuilder.exe",
             "hash": "a105caa0e0d848512df5ced0b1a7b8809dcf8a4c0317e88409ffce2acb84fe76"
         }
     },
