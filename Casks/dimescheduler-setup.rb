@@ -1,6 +1,6 @@
 cask "dimescheduler-setup" do
-  version "0.10.7"
-  sha256 "14c35fa64a92b191b51cd8e29e227e2435f05b0ecf68601147916fd15728250c"
+  version "0.10.8"
+  sha256 "4408d73a57d097e0a46480ba041e779519a4243dbb5f6dadf33a9dc10cc993ce"
 
   url "https://stdimescheduler.blob.core.windows.net/setup/v#{version}/dimescheduler-setuppackagebuilder_0.1.0_universal.dmg"
   name "Dime.Scheduler Setup Package Builder"
@@ -12,7 +12,7 @@ cask "dimescheduler-setup" do
     strategy :github_latest
   end
 
-  app "Dime.Scheduler Setup Package Builder.app"
+  app "dimescheduler-setuppackagebuilder.app"
 
   zap trash: [
     "~/Library/Application Support/com.dimesoftware.dimescheduler.setup-package-builder",
