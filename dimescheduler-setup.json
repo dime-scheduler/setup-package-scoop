@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-    "version": "0.11.2",
+    "version": "0.11.3",
     "description": "Desktop application for building Dime.Scheduler setup packages",
     "homepage": "https://www.dimescheduler.com",
     "license": {
@@ -9,8 +9,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://stdimescheduler.blob.core.windows.net/setup/v0.11.2/dimescheduler-setuppackagebuilder.exe",
-            "hash": "81638c1fbab29ef10441e3d05bddc7383eb098d24d86f1fe0316295ffd9e5421"
+            "url": "https://stdimescheduler.blob.core.windows.net/setup/v0.11.3/dimescheduler-setuppackagebuilder.exe",
+            "hash": "fc3e8d328b1acf8dd239a12fbf441bf9561842ed1ddae9527f2253ecda6a3242"
         }
     },
     "bin": [["dimescheduler-setuppackagebuilder.exe", "dimescheduler-setuppackagebuilder"]],
