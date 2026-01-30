@@ -1,8 +1,8 @@
 cask "dimescheduler-setup" do
-  version "0.11.0"
-  sha256 "e2231b1a9c9456e65085d2d2c46c52cb4223dce240117772b32661d3d85ecbed"
+  version "0.11.1"
+  sha256 "914dd911318b607c2bf56f2fb80a6f9f2ddc8f0ab56df15928d90397975c2ec8"
 
-  url "https://stdimescheduler.blob.core.windows.net/setup/v#{version}/Dime.Scheduler%20Setup%20Package%20Builder_0.11.0_universal.dmg"
+  url "https://stdimescheduler.blob.core.windows.net/setup/v#{version}/Dime.Scheduler%20Setup%20Package%20Builder_0.11.1_universal.dmg"
   name "Dime.Scheduler Setup Package Builder"
   desc "DSL configuration tool for Dime.Scheduler"
   homepage "https://www.dimescheduler.com"
